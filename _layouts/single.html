@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<div class="single-entry">
+{{ content }}
+</div>
+
+<div id="metadata">
+	<h3>Metadata</h3>
+	<p><strong>Title</strong>: {{page.title}}</p>
+	<p><strong>Author</strong>: {{page.author}}</p>
+	<p><strong>Date</strong>: {{page.date | date_to_string}}</p>
+	<p><strong>Source</strong>: <em>{{page.source}}</em></p>
+	<p class="tag_list"><strong>Tags</strong>: 
+			{% for tag in page.tags %}
+			<a class="tag_list_link" href="/tag/{{ tag }}">{{ tag }}</a>
+			{% endfor %}
+	<p class="tag_list"><strong>Category</strong>: <a href="/categories/{{page.category}}/">{{ page.category }}</a></p>
+	<p><strong>TEI XML</strong>: <a href="{{page.xml-source}}">{{page.xml-source}}</a></p>
+</div>
