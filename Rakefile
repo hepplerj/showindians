@@ -16,13 +16,13 @@ end
 desc "rebuild"
 task :rebuild do
   sh 'rm -rf _site'
-  system 'time jekyll --server'
+  system 'time jekyll serve'
 end
 
 desc "preview site in browser with localhost:4000"
 task :preview do
   puts "Starting site preview in http://localhost:4000."
-  system "jekyll --server --auto"
+  system "jekyll serve --watch"
 end
 
 desc "give title as argument and create new entry"
