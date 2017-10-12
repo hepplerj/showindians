@@ -2,9 +2,9 @@ baseurl:        /
 
 source:         .
 destination:    ./_site
-plugins:        ./_plugins
+plugins_dir:    ./_plugins
 
-pygments:       true
+#pygments:       true
 markdown:       kramdown
 permalink:      date
 
