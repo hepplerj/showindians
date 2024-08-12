@@ -1,5 +1,5 @@
 <!doctype html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta content="Buffalo Bill's Wild West" name="description" />
@@ -7,31 +7,31 @@
     <meta name="author" content="Jason Heppler" />
     <link
       rel="stylesheet"
-      href="/css/style.css"
+      href="{{ site.url }}/css/style.css"
       type="text/css"
       media="screen, projection"
     />
 
     <link
-      href="http://fonts.googleapis.com/css?family=Bitter"
+      href="https://fonts.googleapis.com/css?family=Bitter"
       rel="stylesheet"
       type="text/css"
     />
     <link
-      href="http://fonts.googleapis.com/css?family=Mate"
+      href="https://fonts.googleapis.com/css?family=Mate"
       rel="stylesheet"
       type="text/css"
     />
     <link
-      href="http://fonts.googleapis.com/css?family=Goudy+Bookletter+1911"
+      href="https://fonts.googleapis.com/css?family=Goudy+Bookletter+1911"
       rel="stylesheet"
       type="text/css"
     />
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
-    <script type="text/javascript" src="{{ baseurl }}/js/concept.js"></script>
-    <script type="text/javascript" src="{{ baseurl }}/js/persist.js"></script>
-    <script type="text/javascript" src="{{ baseurl }}/js/sorttable.js"></script>
+    <script type="text/javascript" src="{{ site.url }}/js/concept.js"></script>
+    <script type="text/javascript" src="{{ site.url }}/js/persist.js"></script>
+    <script type="text/javascript" src="{{ site.url }}/js/sorttable.js"></script>
   </head>
 
   <body>
@@ -47,21 +47,21 @@
 
       <ul id="dropnav">
         <li>
-          <a href="{{ baseurl }}/introduction/">Introduction</a>
+          <a href="{{ site.url }}/introduction/">Introduction</a>
         </li>
         <li>
-          <a href="{{ baseurl }}">Themes</a>
+          <a href="{{ site.url }}/analysis/context/">Themes</a>
           <ul>
             <li>
-              <a href="{{ baseurl }}/analysis/context/">Context</a>
+              <a href="{{ site.url }}/analysis/context/">Context</a>
             </li>
             <li>
-              <a href="{{ baseurl }}/analysis/progressivism/"
+              <a href="{{ site.url }}/analysis/progressivism/"
                 >Cody's Progressivism</a
               >
             </li>
             <li>
-              <a href="{{ baseurl }}/analysis/advocate/"
+              <a href="{{ site.url }}/analysis/advocate/"
                 >The Wild West as Advocate</a
               >
             </li>
@@ -71,40 +71,43 @@
           <a href="">Buffalo Bill's Wild West</a>
         </ul>
         <li>
-          <a href="{{ baseurl }}/data/">Data and Methods</a>
+          <a href="{{ site.url }}/data/">Methods</a>
           <ul>
             <li>
-              <a href="{{ baseurl }}/posters/"
+              <a href="{{ site.url }}/posters/"
                 >Wild West Publicity Images of Native Americans</a
               >
             </li>
             <li>
-              <a href="{{ baseurl }}/concept-map/"
+              <a href="{{ site.url }}/concept-map/"
                 >Concept Map of Narrative Themes</a
               >
             </li>
             <li>
-              <a href="{{ baseurl }}/contracts/"
+              <a href="{{ site.url }}/contracts/"
                 >Comparison of Show Indian Contracts</a
               >
             </li>
             <li>
-              <a href="{{ baseurl }}/topic-model/">Topic Modeling</a>
+              <a href="{{ site.url }}/topic-model/">Topic Modeling</a>
             </li>
             <li>
-              <a href="{{ baseurl }}/database/">Database of Performers</a>
+              <a href="{{ site.url }}/database/">Database of Performers</a>
             </li>
           </ul>
         </li>
         <li>
-          <a href="{{ baseurl }}/archive/">Archive</a>
+          <a href="{{ site.url }}/archive/">Archive</a>
         </li>
 
         <li>
-          <a href="{{ baseurl }}/conclusions/">Conclusions</a>
+          <a href="{{ site.url }}/conclusions/">Conclusions</a>
         </li>
         <li>
-          <a href="{{ baseurl }}/about/">About</a>
+          <a href="{{ site.url }}/data/">Data</a>
+        </li>
+        <li>
+          <a href="{{ site.url }}/about/">About</a>
         </li>
       </ul>
 
@@ -112,10 +115,10 @@
 
       <footer>
         <p>
-          A project of <a href="http://jasonheppler.org">Jason A. Heppler</a>,
+          A project of <a href="https://jasonheppler.org">Jason A. Heppler</a>,
           George Mason University. &bull; Licensed
-          <a href="http://creativecommons.org/licenses/by/3.0/">CC-BY</a> &bull;
-          <a href="{{ baseurl }}about/">About</a>
+          <a href="https://creativecommons.org/licenses/by/3.0/">CC-BY</a> &bull;
+          <a href="{{ site.url }}about/">About</a>
         </p>
       </footer>
     </div>
