@@ -1,3 +1,3 @@
 # Oskate Wicasa
 
-Digital history project w/ Doug Seefeldt on Show Indians and Buffalo Bill's Wild West.
+Digital history project on [Show Indians](https://en.wikipedia.org/wiki/Show_Indians) and Buffalo Bill's Wild West.
