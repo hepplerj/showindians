@@ -1,30 +1,3 @@
-desc 'deploying via rsync'
-task :deploy do
-  # uploads ALL files b/c I often do site-wide changes and prefer overwriting all
-  puts 'Currently turned off. Configure this first!'
-  # remove --rsh piece if not using 22
-  #sh "time jekyll && rsync -rtzh --progress _site/ jasonhep@jasonheppler.org:/home1/jasonhep/public_html/"
-  #puts 'Done!'
-end
-
-desc "nuke and rebuild"
-task :nuke do
-    sh 'rm -rf _site'
-    system "jekyll"
-end
-
-desc "rebuild"
-task :rebuild do
-  sh 'rm -rf _site'
-  system 'time jekyll serve'
-end
-
-desc "preview site in browser with localhost:4000"
-task :preview do
-  puts "Starting site preview in http://localhost:4000."
-  system "jekyll serve --watch"
-end
-
 desc "give title as argument and create new entry"
 # usage rake write["Post Title Goes Here","date","category"]
 # category is optional
@@ -54,5 +27,5 @@ category: #{args.category}
 EOS
     end
     puts "Now opening #{path} in vim..."
-    system "mvim #{path}"
+    system "vim #{path}"
 end
