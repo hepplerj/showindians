@@ -13,7 +13,7 @@ tags:
 - Pine Ridge Agency
 - Omaha
 category: Letter
-xml-source: http://codyarchive.org/texts/wfc.css00011.xml
+xml-source: https://codyarchive.org/texts/wfc.css00011.xml
 ---
 <div class="concepts">
     <h4>Concepts</h4>
@@ -31,7 +31,7 @@ xml-source: http://codyarchive.org/texts/wfc.css00011.xml
     </div>
 </div>
 
-![Letter from Cody to Brennan 1908 09 03](http://codyarchive.org/figures/250/wfc.css00011_img_0.jpg "Letter from Cody to Brennan 1908 09 03")
+![Letter from Cody to Brennan 1908 09 03](https://codyarchive.org/figures/250/wfc.css00011_img_0.jpg "Letter from Cody to Brennan 1908 09 03")
 
 ## Letter from William F. Cody to John R. Brennan
 

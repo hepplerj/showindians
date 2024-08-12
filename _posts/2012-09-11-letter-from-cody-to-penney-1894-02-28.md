@@ -9,7 +9,7 @@ tags:
 - Shangreaux, John
 - Pine Ridge Agency
 category: Letter
-xml-source: http://codyarchive.org/texts/wfc.css00014.xml
+xml-source: https://codyarchive.org/texts/wfc.css00014.xml
 ---
 
 ![Letter from Cody to Penney 1894 02 28](path/to/jpg.jpg "Letter from Cody to Penney 1894 02 28")

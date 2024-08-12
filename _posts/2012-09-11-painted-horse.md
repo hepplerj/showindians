@@ -9,10 +9,10 @@ tags:
 - Painted Horse
 - Red Cloud Agency
 category: Newspaper
-xml-source: http://codyarchive.org/texts/wfc.nsp03151.xml
+xml-source: https://codyarchive.org/texts/wfc.nsp03151.xml
 ---
 
-![Painted Horse](http://codyarchive.org/figures/250/wfc.nsp03151.1.jpg "Painted Horse")
+![Painted Horse](https://codyarchive.org/figures/250/wfc.nsp03151.1.jpg "Painted Horse")
 
 # PAINTED HORSE.
 

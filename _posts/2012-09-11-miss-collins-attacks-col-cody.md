@@ -10,7 +10,7 @@ tags:
 - Sitting Bull
 - Fort Sheridan
 category: Newspaper
-xml-source: http://codyarchive.org/texts/wfc.nsp00005.xml
+xml-source: https://codyarchive.org/texts/wfc.nsp00005.xml
 ---
 ![Image not available](/figures/default_document.png "Image not available")
 

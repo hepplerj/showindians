@@ -11,10 +11,10 @@ tags:
 - Connell, Frankie
 - Crim, Cora
 category: Newspaper
-xml-source: http://codyarchive.org/texts/wfc.nsp04699.xml
+xml-source: https://codyarchive.org/texts/wfc.nsp04699.xml
 ---
 
-![Indians on the East Track](http://codyarchive.org/figures/250/wfc.nsp04699.1.jpg "Indians on the East Track")
+![Indians on the East Track](https://codyarchive.org/figures/250/wfc.nsp04699.1.jpg "Indians on the East Track")
 
 # INDIANS ON THE EAST TRACK
 

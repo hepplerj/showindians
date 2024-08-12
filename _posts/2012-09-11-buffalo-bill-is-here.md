@@ -7,7 +7,7 @@ source: Chicago Daily Tribune
 tags:
 - Entertainment
 category: Newspaper
-xml-source: http://codyarchive.org/texts/wfc.nsp00008.xml
+xml-source: https://codyarchive.org/texts/wfc.nsp00008.xml
 ---
 ![Image not available](/figures/default_document.png "Image not available")
 

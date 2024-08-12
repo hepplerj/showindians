@@ -9,7 +9,7 @@ tags:
 - Glasgow
 - Paris
 category: Letter
-xml-source: http://codyarchive.org/texts/wfc.css00005.xml
+xml-source: https://codyarchive.org/texts/wfc.css00005.xml
 ---
 <div class="concepts">
     <h4>Concepts</h4>
@@ -27,7 +27,7 @@ xml-source: http://codyarchive.org/texts/wfc.css00005.xml
     </div>
 </div>
 
-![Letter from Cody to Russell 1904 08 05](http://codyarchive.org/figures/250/wfc.css00005_img_0.jpg "Letter from Cody to Russell 1904 08 05")
+![Letter from Cody to Russell 1904 08 05](https://codyarchive.org/figures/250/wfc.css00005_img_0.jpg "Letter from Cody to Russell 1904 08 05")
 
 # Letter from William F. Cody to Bill Russell
 

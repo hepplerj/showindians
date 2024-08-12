@@ -10,10 +10,10 @@ tags:
 - South Dakota
 - England
 category: Letter
-xml-source: http://codyarchive.org/texts/wfc.css00006.xml
+xml-source: https://codyarchive.org/texts/wfc.css00006.xml
 ---
 
-![Letter from Cody to Brennan 1904 05 27](http://codyarchive.org/figures/250/wfc.css00006_img_0.jpg "Letter from Cody to Brennan 1904 05 27")
+![Letter from Cody to Brennan 1904 05 27](https://codyarchive.org/figures/250/wfc.css00006_img_0.jpg "Letter from Cody to Brennan 1904 05 27")
 
 # Letter from William F. Cody to John R. Brennan
 

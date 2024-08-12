@@ -10,10 +10,10 @@ tags:
 - New York
 - Europe
 category: Newspaper
-xml-source: http://codyarchive.org/texts/wfc.nsp03436.xml
+xml-source: https://codyarchive.org/texts/wfc.nsp03436.xml
 ---
 
-![Buffalo Bills Injuns](http://codyarchive.org/figures/250/wfc.nsp03436.1.jpg "Buffalo Bills Injuns")
+![Buffalo Bills Injuns](https://codyarchive.org/figures/250/wfc.nsp03436.1.jpg "Buffalo Bills Injuns")
 
 # Buffalo Bill's Injuns
 

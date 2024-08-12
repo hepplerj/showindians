@@ -34,7 +34,7 @@ category: Newspaper
     </div>
 </div>
 
-![Will Not Sign](http://codyarchive.org/figures/250/wfc.nsp02950.1.jpg "Will Not Sign")
+![Will Not Sign](https://codyarchive.org/figures/250/wfc.nsp02950.1.jpg "Will Not Sign")
 
 ## WILL NOT SIGN.
 

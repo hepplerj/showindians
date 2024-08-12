@@ -9,7 +9,7 @@ tags:
 - Philip Standing Soldier
 - Joe Black Fox
 category: Newspaper
-xml-source: http://codyarchive.org/texts/wfc.nsp00014.xml
+xml-source: https://codyarchive.org/texts/wfc.nsp00014.xml
 ---
 ![Image not available](/figures/default_document.png "Image not available")
 

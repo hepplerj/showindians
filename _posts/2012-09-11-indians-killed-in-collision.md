@@ -13,10 +13,10 @@ tags:
 - Annie Good Face
 - Luther Standing Bear
 category: Newspaper
-xml-source: http://codyarchive.org/texts/wfc.nsp01887.xml
+xml-source: https://codyarchive.org/texts/wfc.nsp01887.xml
 ---
 
-![Indians Killed in Collision](http://codyarchive.org/figures/250/wfc.nsp01887.1.jpg "Indians Killed in Collision")
+![Indians Killed in Collision](https://codyarchive.org/figures/250/wfc.nsp01887.1.jpg "Indians Killed in Collision")
 
 # INDIANS KILLED IN COLLISION.
 

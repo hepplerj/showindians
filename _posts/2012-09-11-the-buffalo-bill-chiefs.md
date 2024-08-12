@@ -10,7 +10,7 @@ tags:
 - Little Wolf
 - Black Elk
 category: Newspaper
-xml-source: http://codyarchive.org/texts/wfc.nsp03178.xml
+xml-source: https://codyarchive.org/texts/wfc.nsp03178.xml
 ---
 <div class="concepts">
     <h4>Concepts</h4>
@@ -56,7 +56,7 @@ xml-source: http://codyarchive.org/texts/wfc.nsp03178.xml
     </div>
 </div>
 
-![The Buffalo Bill Chiefs](http://codyarchive.org/figures/250/wfc.nsp03178.3.jpg "The Buffalo Bill Chiefs")
+![The Buffalo Bill Chiefs](https://codyarchive.org/figures/250/wfc.nsp03178.3.jpg "The Buffalo Bill Chiefs")
 
 <section class="contentside">
 <h2>THE BUFFALO BILL CHIEFS.</h2>

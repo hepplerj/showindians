@@ -9,10 +9,10 @@ tags:
 - Iron Tail
 - Little Wound
 category: Newspaper
-xml-source: http://codyarchive.org/texts/wfc.nsp04725.xml
+xml-source: https://codyarchive.org/texts/wfc.nsp04725.xml
 ---
 
-![Rich Day for Exposition](http://codyarchive.org/figures/800/wfc.nsp04725.1.jpg "Rich Day for Exposition")
+![Rich Day for Exposition](https://codyarchive.org/figures/800/wfc.nsp04725.1.jpg "Rich Day for Exposition")
 
 # RICH DAY FOR EXPOSITION
 

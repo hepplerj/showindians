@@ -11,7 +11,7 @@ tags:
 - Standing Bill
 - Young Not Afraid of a Thirst
 category: Newspaper
-xml-source: http://codyarchive.org/texts/wfc.nsp01985.xml
+xml-source: https://codyarchive.org/texts/wfc.nsp01985.xml
 ---
 <div class="concepts">
     <h4>Concepts</h4>
@@ -48,7 +48,7 @@ xml-source: http://codyarchive.org/texts/wfc.nsp01985.xml
     </div>
 </div>
 
-![Becoming Civilized](http://codyarchive.org/figures/250/wfc.nsp01985.1.jpg "Becoming Civilized")
+![Becoming Civilized](https://codyarchive.org/figures/250/wfc.nsp01985.1.jpg "Becoming Civilized")
 
 # BECOMING CIVILIZED.
 

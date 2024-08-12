@@ -11,7 +11,7 @@ tags:
 - Rocky Bear
 - Johnny Baker
 category: Newspaper
-xml-source: http://codyarchive.org/texts/wfc.nsp00023.xml
+xml-source: https://codyarchive.org/texts/wfc.nsp00023.xml
 ---
 
 <div class="concepts">

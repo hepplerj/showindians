@@ -7,10 +7,10 @@ source: New York Times
 tags:
 - Burke, John M.
 category: Newspaper
-xml-source: http://codyarchive.org/texts/wfc.nsp01619.xml
+xml-source: https://codyarchive.org/texts/wfc.nsp01619.xml
 ---
 
-![Indians Make Their Complaints](http://codyarchive.org/figures/250/wfc.nsp01619.1.jpg "Indians Make Their Complaints")
+![Indians Make Their Complaints](https://codyarchive.org/figures/250/wfc.nsp01619.1.jpg "Indians Make Their Complaints")
 
 # INDIANS MAKE THEIR COMPLAINTS
 

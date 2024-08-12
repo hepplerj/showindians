@@ -7,10 +7,10 @@ source: The Sun
 tags:
 - Entertainment
 category: Newspaper
-xml-source: http://codyarchive.org/texts/wfc.nsp04700.xml
+xml-source: https://codyarchive.org/texts/wfc.nsp04700.xml
 ---
 
-![Buffalo Bills Surprise](http://codyarchive.org/figures/250/wfc.nsp04700.1.jpg "Buffalo Bills Surprise")
+![Buffalo Bills Surprise](https://codyarchive.org/figures/250/wfc.nsp04700.1.jpg "Buffalo Bills Surprise")
 
 # BUFFALO BILL'S SURPRISE.
 

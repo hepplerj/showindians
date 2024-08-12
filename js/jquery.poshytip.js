@@ -1,7 +1,7 @@
 /*
  * Poshy Tip jQuery plugin v1.1
- * http://vadikom.com/tools/poshy-tip-jquery-plugin-for-stylish-tooltips/
- * Copyright 2010-2011, Vasil Dinkov, http://vadikom.com/
+ * https://vadikom.com/tools/poshy-tip-jquery-plugin-for-stylish-tooltips/
+ * Copyright 2010-2011, Vasil Dinkov, https://vadikom.com/
  */
 
 (function($) {
@@ -219,7 +219,7 @@
 			} else if ($table[0]) {
 				// fix the table width if we are using a background image
 				// IE9, FF4 use float numbers for width/height so use getComputedStyle for them to avoid text wrapping
-				// for details look at: http://vadikom.com/dailies/offsetwidth-offsetheight-useless-in-ie9-firefox4/
+				// for details look at: https://vadikom.com/dailies/offsetwidth-offsetheight-useless-in-ie9-firefox4/
 				$table.width('auto').find('td').eq(3).width('auto').end().end().width(document.defaultView && document.defaultView.getComputedStyle && parseFloat(document.defaultView.getComputedStyle(this.$tip[0], null).width) || this.$tip.width()).find('td').eq(3).width('100%');
 			}
 			this.tipOuterW = this.$tip.outerWidth();

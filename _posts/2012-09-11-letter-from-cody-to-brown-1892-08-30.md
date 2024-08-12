@@ -8,10 +8,10 @@ tags:
 - Brown, George LeRoy
 - Pine Ridge Agency
 category: Letter
-xml-source: http://codyarchive.org/texts/wfc.css00012.xml
+xml-source: https://codyarchive.org/texts/wfc.css00012.xml
 ---
 
-![Letter from Cody to Brown](http://codyarchive.org/figures/250/wfc.css00012_img_0.jpg "Letter from Cody to Brown")
+![Letter from Cody to Brown](https://codyarchive.org/figures/250/wfc.css00012_img_0.jpg "Letter from Cody to Brown")
 
 August 30 1892  
 Capt Geo LeRoy Brown,  

@@ -7,10 +7,10 @@ source: Washington Post
 tags:
 - Employment
 category: Newspaper
-xml-source: http://codyarchive.org/texts/wfc.nsp01674.xml
+xml-source: https://codyarchive.org/texts/wfc.nsp01674.xml
 ---
 
-![Buffalo Bill Is Under Bond](http://codyarchive.org/figures/250/wfc.nsp01674.1.jpg "Buffalo Bill Is Under Bond")
+![Buffalo Bill Is Under Bond](https://codyarchive.org/figures/250/wfc.nsp01674.1.jpg "Buffalo Bill Is Under Bond")
 
 # Buffalo Bill Is Under Bond
 

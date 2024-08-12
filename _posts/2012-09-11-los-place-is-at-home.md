@@ -9,7 +9,7 @@ tags:
 - Collins, Mary C.
 - Morgan, T. J.
 category: Newspaper
-xml-source: http://codyarchive.org/texts/wfc.nsp00004.xml
+xml-source: https://codyarchive.org/texts/wfc.nsp00004.xml
 ---
 ![Image not available](/figures/default_document.png "Image not available")
 

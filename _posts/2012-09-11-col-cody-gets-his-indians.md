@@ -8,10 +8,10 @@ tags:
 - Morgan
 - Noble
 category: Newspaper
-xml-source: http://codyarchive.org/texts/wfc.nsp01426.xml
+xml-source: https://codyarchive.org/texts/wfc.nsp01426.xml
 ---
 
-![Col Cody Gets His Indians](http://codyarchive.org/figures/250/wfc.nsp01426.1.jpg "Col Cody Gets His Indians")
+![Col Cody Gets His Indians](https://codyarchive.org/figures/250/wfc.nsp01426.1.jpg "Col Cody Gets His Indians")
 
 # COL. CODY GETS HIS INDIANS.
 

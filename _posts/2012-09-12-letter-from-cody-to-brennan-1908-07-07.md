@@ -9,7 +9,7 @@ tags:
 - Pine Ridge Agency
 - Brennan, John R.
 category: Letter
-xml-source: http://codyarchive.org/texts/wfc.css00008.xml
+xml-source: https://codyarchive.org/texts/wfc.css00008.xml
 ---
 <div class="concepts">
     <h4>Concepts</h4>
@@ -28,7 +28,7 @@ xml-source: http://codyarchive.org/texts/wfc.css00008.xml
     </div>
 </div>
 
-![Letter from Cody to Brennan 1908 07 07](http://codyarchive.org/figures/250/wfc.css00008_img_0.jpg "Letter from Cody to Brennan 1908 07 07")
+![Letter from Cody to Brennan 1908 07 07](https://codyarchive.org/figures/250/wfc.css00008_img_0.jpg "Letter from Cody to Brennan 1908 07 07")
 
 ## Letter from William F. Cody to John R. Brennan
 

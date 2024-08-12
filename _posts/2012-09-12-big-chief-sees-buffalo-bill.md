@@ -10,7 +10,7 @@ tags:
 - Madison Square Garden
 - Pine Ridge Agency
 category: Newspaper
-xml-source: http://codyarchive.org/texts/wfc.nsp00024.xml
+xml-source: https://codyarchive.org/texts/wfc.nsp00024.xml
 ---
 <div class="concepts">
     <h4>Concepts</h4>

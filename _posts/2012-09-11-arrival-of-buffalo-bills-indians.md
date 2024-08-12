@@ -7,7 +7,7 @@ source: The Sun
 tags:
 - Burke, John M.
 category: Newspaper
-xml-source: http://codyarchive.org/texts/wfc.nsp00026.xml
+xml-source: https://codyarchive.org/texts/wfc.nsp00026.xml
 ---
 
 ![Image not available](/figures/default_document.png "Image not available")

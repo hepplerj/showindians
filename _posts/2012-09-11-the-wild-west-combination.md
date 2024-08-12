@@ -9,7 +9,7 @@ tags:
 - Bogardus, Captain
 category: Newspaper
 ---
-![The Wild West Combination](http://codyarchive.org/figures/250/wfc.nsp01191.1.jpg "The Wild West Combination")
+![The Wild West Combination](https://codyarchive.org/figures/250/wfc.nsp01191.1.jpg "The Wild West Combination")
 
 <section class="contentside">
 

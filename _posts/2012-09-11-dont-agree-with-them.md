@@ -44,7 +44,7 @@ category: Newspaper
     </div>
 </div>
 
-![Dont Agree With Them](http://codyarchive.org/figures/250/wfc.nsp03102.1.jpg "Dont Agree With Them")
+![Dont Agree With Them](https://codyarchive.org/figures/250/wfc.nsp03102.1.jpg "Dont Agree With Them")
 
 ## Don't Agree With Them.
 

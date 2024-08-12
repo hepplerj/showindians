@@ -35,7 +35,7 @@ category: Newspaper
     </div>
 </div>
 
-![Buffalo Bills Wild West Indians](http://codyarchive.org/figures/250/wfc.nsp01402.1.jpg "Buffalo Bills Wild West Indians")
+![Buffalo Bills Wild West Indians](https://codyarchive.org/figures/250/wfc.nsp01402.1.jpg "Buffalo Bills Wild West Indians")
 
 ## Buffalo Bill's Wild West Indians.
 

@@ -8,10 +8,10 @@ tags:
 - Omaha
 - Washington, D.C.
 category: Newspaper
-xml-source: http://codyarchive.org/texts/wfc.nsp04787.xml
+xml-source: https://codyarchive.org/texts/wfc.nsp04787.xml
 ---
 
-![Cody Combats Jones](http://codyarchive.org/figures/250/wfc.nsp04787.1.jpg "Cody Combats Jones")
+![Cody Combats Jones](https://codyarchive.org/figures/250/wfc.nsp04787.1.jpg "Cody Combats Jones")
 
 # Cody Combats Jones.
 

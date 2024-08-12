@@ -9,10 +9,10 @@ tags:
 - Lone Bear
 - Pine Ridge Agency
 category: Letter
-xml-source: http://codyarchive.org/texts/wfc.css00007.xml
+xml-source: https://codyarchive.org/texts/wfc.css00007.xml
 ---
 
-![Letter from Cody to Brennan 1907 06 20](http://codyarchive.org/figures/250/wfc.css00007_img_0.jpg "Letter from Cody to Brennan 1907 06 20")
+![Letter from Cody to Brennan 1907 06 20](https://codyarchive.org/figures/250/wfc.css00007_img_0.jpg "Letter from Cody to Brennan 1907 06 20")
 
 # Letter from William F. Cody to John R. Brennan
 

@@ -9,7 +9,7 @@ tags:
 - Iron Tail
 - Cody, Wyoming
 category: Newspaper
-xml-source: http://codyarchive.org/texts/wfc.nsp00021.xml
+xml-source: https://codyarchive.org/texts/wfc.nsp00021.xml
 ---
 
 <div class="concepts">

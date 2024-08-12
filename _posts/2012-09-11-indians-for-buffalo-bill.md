@@ -8,10 +8,10 @@ tags:
 - Pine Ridge Agency
 - Fort Sheridan
 category: Newspaper
-xml-source: http://codyarchive.org/texts/wfc.nsp03437.xml
+xml-source: https://codyarchive.org/texts/wfc.nsp03437.xml
 ---
 
-![Indians for Buffalo Bill](http://codyarchive.org/figures/250/wfc.nsp03437.1.jpg "Indians for Buffalo Bill")
+![Indians for Buffalo Bill](https://codyarchive.org/figures/250/wfc.nsp03437.1.jpg "Indians for Buffalo Bill")
 
 # Indians for Buffalo Bill
 

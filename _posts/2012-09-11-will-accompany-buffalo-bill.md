@@ -12,7 +12,7 @@ tags:
 - Short Bull
 - Burke, John M.
 category: Newspaper
-xml-source: http://codyarchive.org/texts/wfc.nsp00003.xml
+xml-source: https://codyarchive.org/texts/wfc.nsp00003.xml
 ---
 <div class="concepts">
     <h4>Concepts</h4>

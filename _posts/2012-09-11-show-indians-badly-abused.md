@@ -13,7 +13,7 @@ tags:
 - Brave Elk
 - Pine Ridge Agency
 category: Newspaper
-xml-source: http://codyarchive.org/texts/wfc.nsp03150.xml 
+xml-source: https://codyarchive.org/texts/wfc.nsp03150.xml 
 ---
 <div class="concepts">
     <h4>Concepts</h4>
@@ -41,7 +41,7 @@ xml-source: http://codyarchive.org/texts/wfc.nsp03150.xml
     </div>
 </div>
 
-![Show Indians Badly Abused](http://codyarchive.org/figures/250/wfc.nsp03150.1.jpg "Show Indians Badly Abused")
+![Show Indians Badly Abused](https://codyarchive.org/figures/250/wfc.nsp03150.1.jpg "Show Indians Badly Abused")
 
 <section class="contentside">
 

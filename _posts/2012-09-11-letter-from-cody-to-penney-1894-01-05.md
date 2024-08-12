@@ -9,10 +9,10 @@ tags:
 - Salsbury, Nathan
 - Pine Ridge Agency
 category: Letter
-xml-source: http://codyarchive.org/texts/wfc.css00015.xml
+xml-source: https://codyarchive.org/texts/wfc.css00015.xml
 ---
 
-![Letter from Cody to Penney](http://codyarchive.org/figures/250/wfc.css00015_img_0.jpg "Letter from Cody to Penney")
+![Letter from Cody to Penney](https://codyarchive.org/figures/250/wfc.css00015_img_0.jpg "Letter from Cody to Penney")
 
 # Letter from Cody to Penney
 

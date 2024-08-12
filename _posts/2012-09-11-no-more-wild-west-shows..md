@@ -8,7 +8,7 @@ tags:
 - Department of the Interior
 - Jones, William A.
 category: Newspaper
-xml-source: http://codyarchive.org/texts/wfc.nsp00016.xml
+xml-source: https://codyarchive.org/texts/wfc.nsp00016.xml
 ---
 
 ![No More Wild West Shows.](path/to/jpg.jpg "No More Wild West Shows.")

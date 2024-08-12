@@ -8,10 +8,10 @@ tags:
 - Edmunds Antipolygamy Act
 - Rock Bear
 category: Newspaper
-xml-source: http://codyarchive.org/texts/wfc.nsp03944.xml
+xml-source: https://codyarchive.org/texts/wfc.nsp03944.xml
 ---
 
-![Red Mans Troubles Aired](http://codyarchive.org/figures/250/wfc.nsp03944.1.jpg "Red Mans Troubles Aired")
+![Red Mans Troubles Aired](https://codyarchive.org/figures/250/wfc.nsp03944.1.jpg "Red Mans Troubles Aired")
 
 # RED MAN'S TROUBLES AIRED
 

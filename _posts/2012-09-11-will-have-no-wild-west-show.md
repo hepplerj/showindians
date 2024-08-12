@@ -8,7 +8,7 @@ tags:
 - Putnam
 - Morgan
 category: Newspaper
-xml-source: http://codyarchive.org/texts/wfc.nsp00007.xml
+xml-source: https://codyarchive.org/texts/wfc.nsp00007.xml
 ---
 <div class="concepts">
     <h4>Concepts</h4>

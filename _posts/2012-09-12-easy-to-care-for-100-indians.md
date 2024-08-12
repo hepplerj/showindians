@@ -9,7 +9,7 @@ tags:
 - Kansas City
 - McCune, William
 category: Newspaper
-xml-source: http://codyarchive.org/texts/wfc.nsp05518.xml
+xml-source: https://codyarchive.org/texts/wfc.nsp05518.xml
 ---
 <div class="concepts">
     <h4>Concepts</h4>
@@ -55,7 +55,7 @@ xml-source: http://codyarchive.org/texts/wfc.nsp05518.xml
     </div>
 </div>
 
-![Easy to Care for 100 Indians](http://codyarchive.org/figures/250/wfc.nsp05518.1.jpg "Easy to Care for 100 Indians")
+![Easy to Care for 100 Indians](https://codyarchive.org/figures/250/wfc.nsp05518.1.jpg "Easy to Care for 100 Indians")
 
 # EASY TO CARE FOR 100 INDIANS.
 

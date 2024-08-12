@@ -9,7 +9,7 @@ tags:
 - Rosebud Agency
 - Short Bull
 category: Newspaper
-xml-source: http://codyarchive.org/texts/wfc.nsp00012.xml
+xml-source: https://codyarchive.org/texts/wfc.nsp00012.xml
 ---
 ![Image not available](/figures/default_document.png "Image not available")
 

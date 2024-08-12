@@ -64,7 +64,7 @@ category: Newspaper
     </div>
 </div>
 
-![The Wild West Show](http://codyarchive.org/figures/250/wfc.nsp02735.1.jpg "The Wild West Show")
+![The Wild West Show](https://codyarchive.org/figures/250/wfc.nsp02735.1.jpg "The Wild West Show")
 
 <section class="contentside">
 <h2>THE WILD WEST SHOW.</h2>

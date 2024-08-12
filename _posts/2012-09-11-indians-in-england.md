@@ -9,10 +9,10 @@ tags:
 - Patti, Mme.
 - Standing Bear
 category: Newspaper
-xml-source: http://codyarchive.org/texts/wfc.nsp01863.xml
+xml-source: https://codyarchive.org/texts/wfc.nsp01863.xml
 ---
 
-![Indians in England](http://codyarchive.org/figures/250/wfc.nsp01863.1.jpg "Indians in England")
+![Indians in England](https://codyarchive.org/figures/250/wfc.nsp01863.1.jpg "Indians in England")
 
 # INDIANS IN ENGLAND.
 ## "Buffalo Bill's" Braves, Just Returned, Excited Wonder—Pappoose Born in Britain.

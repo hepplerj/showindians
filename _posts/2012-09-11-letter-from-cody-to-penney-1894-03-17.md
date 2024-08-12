@@ -7,10 +7,10 @@ source: NARA, Central Plains, Fairs and Expositions, BBWW Contracts, 1891-1895, 
 tags:
 - Penney, Charles G.
 category: Letter
-xml-source: http://codyarchive.org/texts/wfc.css00016.xml
+xml-source: https://codyarchive.org/texts/wfc.css00016.xml
 ---
 
-![Letter from Cody to Penney 1894 03 17](http://codyarchive.org/figures/250/wfc.css00016_img_0.jpg "Letter from Cody to Penney 1894 03 17")
+![Letter from Cody to Penney 1894 03 17](https://codyarchive.org/figures/250/wfc.css00016_img_0.jpg "Letter from Cody to Penney 1894 03 17")
 
 # Letter from William F. Cody to Charles G. Penney
 
@@ -20,7 +20,7 @@ I am haveing 500 of the contracts printed.[^1] I am going to try and come up and
 
 In regard to Mr Wm Brown[^3] who wishes to go as seasonal interpreter, I think I have promised John Shangrau to take his Brother.[^4] But if its Your wish what Mr Brown should go please tell Shangrau and I think it will be alright with the Shangraus.
 
-![Letter from Cody to Penney 1894 03 17](http://codyarchive.org/figures/250/wfc.css00016_img_0.jpg "Letter from Cody to Penney 1894 03 17")
+![Letter from Cody to Penney 1894 03 17](https://codyarchive.org/figures/250/wfc.css00016_img_0.jpg "Letter from Cody to Penney 1894 03 17")
 
 I will be in Omaha for the next five days at the Merchants Hotel— Can I do anything for you there—
 

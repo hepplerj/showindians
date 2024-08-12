@@ -10,10 +10,10 @@ tags:
 - McCarthy, J. J.
 - Pine Ridge Agency
 category: Newspaper
-xml-source: http://codyarchive.org/texts/wfc.nsp04727.xml
+xml-source: https://codyarchive.org/texts/wfc.nsp04727.xml
 ---
 
-![Buffalo Bills Show Draws](http://codyarchive.org/figures/250/wfc.nsp04727.1.jpg "Buffalo Bills Show Draws")
+![Buffalo Bills Show Draws](https://codyarchive.org/figures/250/wfc.nsp04727.1.jpg "Buffalo Bills Show Draws")
 
 BUFFALO BILL'S SHOW DRAWS
 Best Attendance Ever Attracted to a Performance in Omaha.

@@ -8,10 +8,10 @@ tags:
 - Omaha
 - Washington D.C.
 category: Newspaper
-xml-source: http://codyarchive.org/texts/wfc.nsp04789.xml
+xml-source: https://codyarchive.org/texts/wfc.nsp04789.xml
 ---
 
-![Buffalo Bill Will Protest](http://codyarchive.org/figures/250/wfc.nsp04789.1.jpg "Buffalo Bill Will Protest")
+![Buffalo Bill Will Protest](https://codyarchive.org/figures/250/wfc.nsp04789.1.jpg "Buffalo Bill Will Protest")
 
 # Buffalo Bill Will Protest
 

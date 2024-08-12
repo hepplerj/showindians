@@ -9,10 +9,10 @@ tags:
 - Paris
 - Liddiard, William H.
 category: Letter
-xml-source: http://codyarchive.org/texts/wfc.css00005.xml
+xml-source: https://codyarchive.org/texts/wfc.css00005.xml
 ---
 
-![Letter from Cody to Liddiard](http://codyarchive.org/figures/250/wfc.css00005_img_0.jpg "Letter from Cody to Liddiard")
+![Letter from Cody to Liddiard](https://codyarchive.org/figures/250/wfc.css00005_img_0.jpg "Letter from Cody to Liddiard")
 
 # Letter from Cody to Liddiard
 

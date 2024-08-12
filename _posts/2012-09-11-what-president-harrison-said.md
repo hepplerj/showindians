@@ -9,7 +9,7 @@ tags:
 - Short Bear
 - Harrison, Benjamin
 category: Newspaper
-xml-source: http://codyarchive.org/texts/wfc.nsp00006.xml
+xml-source: https://codyarchive.org/texts/wfc.nsp00006.xml
 ---
 <div class="concepts">
     <h4>Concepts</h4>

@@ -31,7 +31,7 @@ category: Newspaper
     </div>
 </div>
 
-![The Wild West Visits the War Department in War Paint](http://codyarchive.org/figures/250/wfc.nsp00546.1.jpg "The Wild West Visits the War Department in War Paint")
+![The Wild West Visits the War Department in War Paint](https://codyarchive.org/figures/250/wfc.nsp00546.1.jpg "The Wild West Visits the War Department in War Paint")
 
 <section class="contentside">
 <h2>The Wild West Visits the War Department in War Paint</h2>

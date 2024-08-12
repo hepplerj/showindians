@@ -7,10 +7,10 @@ source: Washington Post
 tags:
 - Iron Tail
 category: Newspaper
-xml-source: http://codyarchive.org/texts/wfc.nsp01905.xml
+xml-source: https://codyarchive.org/texts/wfc.nsp01905.xml
 ---
 
-![Buffalo Bill Returns](http://codyarchive.org/figures/250/wfc.nsp01905.1.jpg "Buffalo Bill Returns")
+![Buffalo Bill Returns](https://codyarchive.org/figures/250/wfc.nsp01905.1.jpg "Buffalo Bill Returns")
 
 # Buffalo Bill Returns.
 

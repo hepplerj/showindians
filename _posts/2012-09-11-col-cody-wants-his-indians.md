@@ -8,10 +8,10 @@ tags:
 - Omaha
 - Washington D.C.
 category: Newspaper
-xml-source: http://codyarchive.org/texts/wfc.nsp04788.xml
+xml-source: https://codyarchive.org/texts/wfc.nsp04788.xml
 ---
 
-![Col Cody Wants His Indians](http://codyarchive.org/figures/250/wfc.nsp04788.1.jpg "Col Cody Wants His Indians")
+![Col Cody Wants His Indians](https://codyarchive.org/figures/250/wfc.nsp04788.1.jpg "Col Cody Wants His Indians")
 
 # COL. CODY WANTS HIS INDIANS
 

@@ -62,7 +62,7 @@ category: Newspaper
     </div>
 </div>
 
-![The Indian Actors](http://codyarchive.org/figures/250/wfc.nsp01140.1.jpg "The Indian Actors")
+![The Indian Actors](https://codyarchive.org/figures/250/wfc.nsp01140.1.jpg "The Indian Actors")
 
 # The Indian Actors
 

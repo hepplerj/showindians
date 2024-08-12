@@ -8,7 +8,7 @@ tags:
 - Belt
 - O'Beirne, James
 category: Newspaper
-xml-source: http://codyarchive.org/texts/wfc.nsp00011.xml
+xml-source: https://codyarchive.org/texts/wfc.nsp00011.xml
 ---
 ![Image not available](/figures/default_document.png "Image not available")
 

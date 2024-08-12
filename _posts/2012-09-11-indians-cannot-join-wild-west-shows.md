@@ -7,7 +7,7 @@ source: Washington Post
 tags:
 - Belt
 category: Newspaper
-xml-source: http://codyarchive.org/texts/wfc.nsp00030.xml
+xml-source: https://codyarchive.org/texts/wfc.nsp00030.xml
 ---
 <div class="concepts">
     <h4>Concepts</h4>

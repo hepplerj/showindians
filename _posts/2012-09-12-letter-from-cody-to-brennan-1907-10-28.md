@@ -10,7 +10,7 @@ tags:
 - Brennan, John R.
 - Wages
 category: Letter
-xml-source: http://codyarchive.org/texts/wfc.css00010.xml
+xml-source: https://codyarchive.org/texts/wfc.css00010.xml
 ---
 <div class="concepts">
     <h4>Concepts</h4>
@@ -38,7 +38,7 @@ xml-source: http://codyarchive.org/texts/wfc.css00010.xml
     </div>
 </div>
 
-![Letter from Cody to Brennan 1907 10 28](http://codyarchive.org/figures/250/wfc.css00010_img_0.jpg "Letter from Cody to Brennan 1907 10 28")
+![Letter from Cody to Brennan 1907 10 28](https://codyarchive.org/figures/250/wfc.css00010_img_0.jpg "Letter from Cody to Brennan 1907 10 28")
 
 # Letter from William F. Cody to John R. Brennan
 

@@ -8,7 +8,7 @@ tags:
 - Pine Ridge Agency
 - McCune, William F. 
 category: Newspaper
-xml-source: http://codyarchive.org/texts/wfc.nsp00032.xml
+xml-source: https://codyarchive.org/texts/wfc.nsp00032.xml
 ---
 <div class="concepts">
     <h4>Concepts</h4>

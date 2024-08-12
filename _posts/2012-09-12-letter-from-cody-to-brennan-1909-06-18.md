@@ -11,7 +11,7 @@ tags:
 - Glen Falls
 - Wages
 category: Letter
-xml-source: http://codyarchive.org/texts/wfc.css00009.xml
+xml-source: https://codyarchive.org/texts/wfc.css00009.xml
 ---
 <div class="concepts">
     <h4>Concepts</h4>
@@ -29,7 +29,7 @@ xml-source: http://codyarchive.org/texts/wfc.css00009.xml
     </div>
 </div>
 
-![Letter from Cody to Brennan 1909 06 18](http://codyarchive.org/figures/250/wfc.css00009_img_0.jpg "Letter from Cody to Brennan 1909 06 18")
+![Letter from Cody to Brennan 1909 06 18](https://codyarchive.org/figures/250/wfc.css00009_img_0.jpg "Letter from Cody to Brennan 1909 06 18")
 
 ## Letter from William F. Cody to John R. Brennan
 

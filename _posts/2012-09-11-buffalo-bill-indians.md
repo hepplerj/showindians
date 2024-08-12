@@ -9,7 +9,7 @@ tags:
 - Short Bull
 - Kicking Bear
 category: Newspaper
-xml-source: http://codyarchive.org/texts/wfc.nsp00013.xml
+xml-source: https://codyarchive.org/texts/wfc.nsp00013.xml
 ---
 ![Image not available](/figures/default_document.png "Image not available")
 

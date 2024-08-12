@@ -11,7 +11,7 @@ tags:
 - Contracts
 - Legal
 category: Letter
-xml-source: http://codyarchive.org/texts/wfc.css00004.xml
+xml-source: https://codyarchive.org/texts/wfc.css00004.xml
 ---
 <div class="concepts">
     <h4>Concepts</h4>
@@ -30,7 +30,7 @@ xml-source: http://codyarchive.org/texts/wfc.css00004.xml
     </div>
 </div>
 
-![Letter from Brennan to Sells](http://codyarchive.org/figures/800/wfc.css00004_img_0.jpg "Letter from Brennan to Sells")
+![Letter from Brennan to Sells](https://codyarchive.org/figures/800/wfc.css00004_img_0.jpg "Letter from Brennan to Sells")
 
 # Letter from John R. Brennan to Cato Sells
 

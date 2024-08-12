@@ -7,10 +7,10 @@ source: Washington Post
 tags:
 - Bureau of Indian Affairs
 category: Newspaper
-xml-source: http://codyarchive.org/texts/wfc.nsp01620.xml
+xml-source: https://codyarchive.org/texts/wfc.nsp01620.xml
 ---
 
-![Indians Complain to the Commissioner](http://codyarchive.org/figures/250/wfc.nsp01620.1.jpg "Indians Complain to the Commissioner")
+![Indians Complain to the Commissioner](https://codyarchive.org/figures/250/wfc.nsp01620.1.jpg "Indians Complain to the Commissioner")
 
 # Indians Complain to the Commissioner
 
