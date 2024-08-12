@@ -1,10 +1,11 @@
-baseurl:        /
+url: https://progressivewildwest.org
+baseurl: /
+title: Progressive Wild West
 
 source:         .
 destination:    ./_site
 plugins_dir:    ./_plugins
 
-#pygments:       true
 markdown:       kramdown
 permalink:      date
 
