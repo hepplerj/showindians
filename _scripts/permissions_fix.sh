@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the base directory
-base_dir="public/"
+base_dir="_site/"
 
 echo "Setting permissions for $(pwd)/$base_dir"
 
@@ -17,7 +17,8 @@ find "$base_dir" -type f -exec chmod 644 {} \;
 echo "Setting .htaccess permissions..."
 htaccess_file="$base_dir/.htaccess"
 if [ -e "$htaccess_file" ]; then
-    chmod 444 "$htaccess_file"
+  chmod 444 "$htaccess_file"
 fi
 
 echo "Permissions set successfully."
+
