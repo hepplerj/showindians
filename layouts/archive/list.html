@@ -1,0 +1,43 @@
+{{ define "main" }}
+<h2>Archives</h2>
+
+<p>
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+  consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+  proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+</p>
+
+<div class="sidenav">
+  <h4>Document Type</h4>
+  <ul>
+    <li><a href="/archive/">All ({{ len (where .Site.RegularPages "Section" "posts") }})</a></li>
+    {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+    <li class="category">
+      <a href="/categories/{{ $name | urlize }}/">{{ $name }} ({{ len $taxonomy }})</a>
+    </li>
+    {{ end }}
+  </ul>
+</div>
+
+<div class="rightside">
+  <table>
+    <tbody>
+      <tr>
+        <th>Date</th>
+        <th>Category</th>
+        <th>Title</th>
+      </tr>
+      {{ range (where .Site.RegularPages "Section" "posts") }}
+      <tr>
+        <td>{{ .Date.Format "January 02, 2006" }}</td>
+        <td>{{ range .Params.categories }}{{ . }}{{ end }}</td>
+        <td><a href="{{ .Permalink }}">{{ .Title }}</a></td>
+      </tr>
+      {{ end }}
+    </tbody>
+  </table>
+</div>
+{{ end }}
