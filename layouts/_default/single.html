@@ -1,0 +1,24 @@
+{{ define "main" }}
+<div class="single-entry">
+  {{ .Content }}
+</div>
+
+<div id="metadata">
+  <h3>Metadata</h3>
+  <p><strong>Title</strong>: {{ .Title }}</p>
+  <p><strong>Author</strong>: {{ .Params.author }}</p>
+  <p><strong>Date</strong>: {{ .Date.Format "02 Jan 2006" }}</p>
+  <p><strong>Source</strong>: <em>{{ .Params.source }}</em></p>
+  <p class="tag_list"><strong>Tags</strong>:
+    {{ range .Params.tags }}
+    <a class="tag_list_link" href="/tags/{{ . | urlize }}">{{ . }}</a>
+    {{ end }}
+  </p>
+  <p class="tag_list"><strong>Category</strong>:
+    {{ range .Params.categories }}
+    <a href="/categories/{{ . | urlize }}/">{{ . }}</a>
+    {{ end }}
+  </p>
+  <p><strong>TEI XML</strong>: <a href="{{ .Params.xml_source }}">{{ .Params.xml_source }}</a></p>
+</div>
+{{ end }}

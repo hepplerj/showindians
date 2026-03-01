@@ -1,0 +1,17 @@
+baseURL = "https://progressivewildwest.org"
+languageCode = "en-us"
+title = "Progressive Wild West"
+
+[permalinks]
+  posts = "/:year/:month/:day/:slug/"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[params]
+  author = "Jason Heppler"
+  description = "Buffalo Bill's Wild West"
+
+[markup.goldmark.renderer]
+  unsafe = true
