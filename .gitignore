@@ -4,3 +4,5 @@ node_modules/
 todo.taskpaper
 public/
 .hugo_build.lock
+.claude/
+docs/
